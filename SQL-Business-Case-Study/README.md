@@ -46,18 +46,18 @@ This project demonstrates SQL-based business analysis using a retail sales datas
 ## 📷 Project Screenshots
 
 ## Overall Business Metrics
-<img width="925" height="681" alt="Dashboard Metrics" src="https://github.com/user-attachments/assets/3545c9a9-4448-4bfa-a983-0bbd2ebf45f8" />
+<img width="500" alt="Dashboard Metrics" src="https://github.com/user-attachments/assets/3545c9a9-4448-4bfa-a983-0bbd2ebf45f8" />
 
 
 ## Sales Category
-![<img width="927" height="535" alt="Sales by Category" src="https://github.com/user-attachments/assets/a608462f-9734-43ca-8fc5-df530ea8899d" />
+<img width="500" alt="Sales by Category" src="https://github.com/user-attachments/assets/a608462f-9734-43ca-8fc5-df530ea8899d" />
 
 ## Profit Category
-<img width="927" height="615" alt="Profit by Category" src="https://github.com/user-attachments/assets/433d11fa-ce50-429a-96ff-746a80f9d101" />
+<img width="500" alt="Profit by Category" src="https://github.com/user-attachments/assets/433d11fa-ce50-429a-96ff-746a80f9d101" />
 
 
 ## Sales Region
-<img width="927" height="671" alt="Sales by Region" src="https://github.com/user-attachments/assets/09caa114-890d-48be-97bd-9444112efe9c" />
+<img width="500" alt="Sales by Region" src="https://github.com/user-attachments/assets/09caa114-890d-48be-97bd-9444112efe9c" />
 
 
 ## 📂 Project Structure
