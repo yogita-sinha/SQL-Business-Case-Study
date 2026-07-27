@@ -45,23 +45,17 @@ This project demonstrates SQL-based business analysis using a retail sales datas
 
 ## 📷 Project Screenshots
 
-### Overall Business Metrics
+## Overall Business Metrics
+![Metrics](Images/metrics.png)
 
-![Metrics](Images/dashboard_metrics.png)
+## Sales Category
+![Sales Category](Images/sales_category.png)
 
-### Sales by Category
+## Profit Category
+![Profit Category](Images/profit_category.png)
 
-![Sales Category](Images/sales_by_category.png)
-
-### Profit by Category
-
-![Profit Category](Images/profit_by_category.png)
-
-### Sales by Region
-
-![Sales Region](Images/sales_by_region.png)
-
----
+## Sales Region
+![Sales Region](Images/sales_region.png)
 
 ## 📂 Project Structure
 
